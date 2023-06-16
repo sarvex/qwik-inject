@@ -8,7 +8,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@builder.io/qwik": "0.16.2",
+    "@builder.io/qwik": "0.21.0",
     "@builder.io/qwik-city": "0.1.0-beta9",
     "@jscutlery/semver": "^2.29.3",
     "@nrwl/eslint-plugin-nx": "15.5.3",
